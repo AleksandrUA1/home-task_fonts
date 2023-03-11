@@ -4,3 +4,22 @@
     box-sizing: border-box;
     vertical-align: top;
 }
+
+a {text-decoration: none;}
+
+.nav-block {
+    background-color: #EEEFF1;
+    height: 120px;
+    width: 1110px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 79px;
+}
+.nav-buttont {
+    display: inline-block;
+    margin-right: 42px;
+}
+.nav-link {
+    text-transform: uppercase;
+    color: #000;
+}
