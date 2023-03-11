@@ -19,7 +19,7 @@
         url('subset-Roboto-Regular.woff') format('woff'),
         url('subset-Roboto-Regular.ttf') format('truetype'),
         url('subset-Roboto-Regular.svg#Roboto-Regular') format('svg');
-    font-weight: normal;
+    font-weight: 400;
     font-style: normal;
     font-display: swap;
 }
