@@ -6,18 +6,19 @@
 }
 
 a {text-decoration: none;}
-
-.nav-block {
+.fone-aqua {
     background-color: #EEEFF1;
-    height: 120px;
+}
+.content-box {
     width: 1110px;
     margin-left: auto;
     margin-right: auto;
-    padding-top: 79px;
 }
 .nav-buttont {
     display: inline-block;
     margin-right: 42px;
+    padding-top: 79px;
+    height: 120px;
 }
 .nav-link {
     text-transform: uppercase;
